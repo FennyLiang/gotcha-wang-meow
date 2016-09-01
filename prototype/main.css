@@ -1,0 +1,103 @@
+
+.main-action-button{
+  margin: 28% 37% 0;
+  transform: translateY(-50%);
+  background-color: mistyrose;
+
+}
+
+
+
+.div1{
+  width: 635px;
+  height: 320px;
+  background-color: #99CC66;
+  margin: 27% 0% 0;
+  position: absolute;
+  display: inline-block;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+
+}
+
+.div2{
+  width: 635px;
+  height: 320px;
+  background-color: palegoldenrod;
+  margin: 3% 0% 5%;
+  position: absolute;
+  display: inline-block;
+  z-index: -1;
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.div3{
+  width: 652px;
+  height: 320px;
+  background-color: palevioletred;
+  margin: 3% 0% 5% 49%;
+  position: absolute;
+  display: inline-block;
+  z-index: -1;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.div4{
+  width: 652px;
+  height: 320px;
+  background-color: #9d9d9d;
+  margin: 27% 0% 0% 49%;
+  position: absolute;
+  display: inline-block;
+  z-index: -1;
+  background-size: 100% 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.action-button.animal {
+  height: 250px;
+  width: 150px;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.cat-img{
+  background-image: url("../assets/img/moomoo.jpg");
+  margin: 1.5% 0% 1% 3%;
+}
+
+.dog-img{
+  background-image: url("../assets/img/dog.jpg");
+  margin: 1.5% 0% 1% 1%;
+}
+
+.volunteers{
+  background-image: url("../assets/img/volunteer.jpg");
+}
+
+.adopt{
+  background-image: url("../assets/img/adoptables.png");
+}
+
+.donate{
+  background-image: url("../assets/img/make_donation.png");
+}
+
+.life{
+  background-image: url("../assets/img/life.jpg");
+}
