@@ -1,0 +1,17 @@
+node_modules
+dist
+*.log
+config.json
+chromeExtension/dist/*
+*.zip
+.tmp
+.DS_Store
+hooks
+objects
+logs
+refs
+*-refs
+.idea
+HEAD
+index
+info
